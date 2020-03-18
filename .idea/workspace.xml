@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c8a91e2-1c81-4915-b236-cc1d31515bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZHBFmyvoQyO5cKI9KwEtBQayqS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Daniel Enriquez\AppData\Roaming\npm\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel Enriquez\Documents\ReactJS\styling--03-finished\src\components\Persons" />
+      <recent name="C:\Users\Daniel Enriquez\Documents\ReactJS\styling--03-finished\src\components" />
+      <recent name="C:\Users\Daniel Enriquez\Documents\ReactJS\styling--03-finished\src\containers" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c8a91e2-1c81-4915-b236-cc1d31515bd7" name="Default Changelist" comment="" />
+      <created>1584486037835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584486037835</updated>
+      <workItem from="1584486039070" duration="12512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom" timestamp="1584486281790">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="270" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1584486281790" />
+    <state width="1899" height="270" key="GridCell.Tab.0.center" timestamp="1584486281789">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="270" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1584486281789" />
+    <state width="1899" height="270" key="GridCell.Tab.0.left" timestamp="1584486281789">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="270" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1584486281789" />
+    <state width="1899" height="270" key="GridCell.Tab.0.right" timestamp="1584486281790">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="270" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1584486281790" />
+    <state x="461" y="203" key="SettingsEditor" timestamp="1584534387554">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="203" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1584534387554" />
+    <state x="639" y="278" width="642" height="564" key="find.popup" timestamp="1584545285271">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="639" y="278" width="642" height="564" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1584545285271" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1584535812285">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1584535812285" />
+  </component>
+</project>
